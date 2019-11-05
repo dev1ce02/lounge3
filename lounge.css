@@ -61,14 +61,16 @@ h2 {
               font-style:   italic;
       }
       .artist {
-               font-weight:      bold;
+              font-weight:      bold;
       }
-      a:link {
-        color:   green;
+
+      #elixirs a:link {
+            color:  #007e7e;
       }
-      a:visited{
-                color:    red;
+      #elixirs a:visited {
+            color:   #333333;
       }
-      a:hover {
-             color:   yellow;
+      #elixirs a:hover {
+            background:  #f88396;
+            color:       #0d5353;
       }
